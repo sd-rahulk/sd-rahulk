@@ -77,12 +77,7 @@ const rahul = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/sd-rahulk">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sd-rahulk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/sd-rahulk">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd-rahulk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img src="https://metrics.lecoq.io/sd-rahulk?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata&config.display=regular" alt="GitHub Metrics" width="100%"/>
 </div>
 
 ---
@@ -106,7 +101,7 @@ const rahul = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sd-rahulk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://metrics.lecoq.io/sd-rahulk?template=classic&base=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.timezone=Asia%2FKolkata" alt="Achievements" width="100%"/>
 </div>
 
 ---
@@ -189,14 +184,14 @@ const rahul = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sd-rahulk&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  
+  <img src="https://visitcount.itsvg.in/api?id=sd-rahulk&label=Profile%20Views&color=10&icon=0&pretty=true" alt="Profile Views"/>
+
   <br/><br/>
-  
+
   **📬 Reach me at:** [rahulkamaraj10@gmail.com](mailto:rahulkamaraj10@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/rahul-kamaraj10) &nbsp;|&nbsp; [GitHub](https://github.com/sd-rahulk)
-  
+
   <br/>
-  
+
   *"Build. Break. Learn. Repeat."* 🚀
 </div>
 
