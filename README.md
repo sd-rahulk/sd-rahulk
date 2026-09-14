@@ -138,8 +138,11 @@ const rahul = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/sd-rahulk?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata&config.display=regular&config.theme=github_dark" alt="GitHub Metrics" width="100%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sd-rahulk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=1F6FEB" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd-rahulk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 </div>
+
+> If these show "Something went wrong" instead of a card, it's almost always the shared Vercel instance hitting GitHub's API rate limit — it usually clears up within an hour. Refresh the page or hard-refresh (Ctrl/Cmd+Shift+R) since GitHub caches the image aggressively.
 
 ---
 
@@ -154,7 +157,7 @@ const rahul = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sd-rahulk&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=388bfd&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sd-rahulk&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=388BFD&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -162,7 +165,7 @@ const rahul = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/sd-rahulk?template=classic&base=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.timezone=Asia%2FKolkata&config.theme=github_dark" alt="Achievements" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sd-rahulk&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="Trophy Wall"/>
 </div>
 
 ---
