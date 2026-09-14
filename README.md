@@ -57,8 +57,6 @@
 
 </div>
 
-> 💡 Real interactive games (the kind you click and play) can't run *inside* markdown — GitHub strips JavaScript. The ones above work by piping GitHub Actions output into an SVG/GIF, or by reacting to comments/issues. Happy to set up the Tic-Tac-Toe bot for real if you want it live.
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
 </div>
