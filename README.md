@@ -1,15 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rahul%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20CS%20Student%20%40%20VIT%20Chennai&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=RAHUL%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20CS%20Student%20%40%20VIT%20Chennai&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Rahul+K+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;CTF+Winner+%7C+AI+Enthusiast;Building+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Rahul+K+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;CTF+Winner+%7C+AI+Enthusiast;Building+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sd-rahulk&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sd-rahulk?style=for-the-badge&color=BF91F3&labelColor=0D1117" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=sd-rahulk&style=for-the-badge&color=1F6FEB&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/sd-rahulk?style=for-the-badge&color=1F6FEB&labelColor=0D1117&logo=github&logoColor=58A6FF" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Building_Something-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Status"/>
 </div>
 
 <br/>
+
+---
+
+## 🔷 01001000 01101001 — that's "Hi" in binary
+
+<div align="center">
+
+```
+1111111  10001110  10001000  01110110  10001110
+0000010  10001010  10101010  01011010  10001010
+0000010  10001110  10001110  01011010  10001110
+0000010  10001010  10100010  01011010  10001010
+0000010  10001110  10001010  00100100  10001110
+```
+
+</div>
+
+<div align="center">
+<sub><b>R&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;H&nbsp;&nbsp;&nbsp;U&nbsp;&nbsp;&nbsp;L</b> — rendered in 0s and 1s, because pictures are overrated 🔵</sub>
+</div>
 
 ---
 
@@ -19,13 +40,32 @@
   <img src="https://raw.githubusercontent.com/sd-rahulk/sd-rahulk/output/github-contribution-grid-snake-dark.svg" alt="snake game" width="100%"/>
 </div>
 
-> ⚙️ Powered by `Platane/snk` — regenerates from live contribution graph via GitHub Actions (setup below).
+> ⚙️ Powered by `Platane/snk` — regenerates from your live contribution graph via the GitHub Actions workflow below.
+
+---
+
+## 🕹️ Play With My Profile
+
+<div align="center">
+
+| Game | What it does |
+|------|---------------|
+| 🐍 **Snake** (above) | Eats your real contribution graph, one commit-square at a time |
+| 🎯 [Tic-Tac-Toe Bot](https://github.com/marketplace/actions/tic-tac-toe) | Comment on an issue to play a live game against a GitHub Action |
+| 🧩 **Wordle Stats Card** | Drop your daily Wordle streak in via a badge (ask me to wire this up) |
+| 🌀 Rotating skill orbit *(below)* | Not a "game" exactly, but it spins, so it counts |
+
+</div>
+
+> 💡 Real interactive games (the kind you click and play) can't run *inside* markdown — GitHub strips JavaScript. The ones above work by piping GitHub Actions output into an SVG/GIF, or by reacting to comments/issues. Happy to set up the Tic-Tac-Toe bot for real if you want it live.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
 const rahul = {
@@ -55,43 +95,41 @@ const rahul = {
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Stack
+## ── T E C H &nbsp;&nbsp; S T A C K ──
 
 <div align="center">
 
 **Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF)
 
 **Frameworks & Libraries**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=58A6FF)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=58A6FF)
+![React Native](https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF)
+![Expo](https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=58A6FF)
 
 **Cloud, Data & Databases**
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=58A6FF)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)
+![Chart.js](https://img.shields.io/badge/Chart.js-0D1117?style=for-the-badge&logo=chartdotjs&logoColor=58A6FF)
 
 **Hardware & Tools**
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=58A6FF)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF)
 
 </div>
 
@@ -100,7 +138,7 @@ const rahul = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/sd-rahulk?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata&config.display=regular" alt="GitHub Metrics" width="100%"/>
+  <img src="https://metrics.lecoq.io/sd-rahulk?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata&config.display=regular&config.theme=github_dark" alt="GitHub Metrics" width="100%"/>
 </div>
 
 ---
@@ -108,7 +146,7 @@ const rahul = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sd-rahulk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sd-rahulk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=388BFD&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -116,7 +154,7 @@ const rahul = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sd-rahulk&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sd-rahulk&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=388bfd&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -124,7 +162,7 @@ const rahul = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/sd-rahulk?template=classic&base=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.timezone=Asia%2FKolkata" alt="Achievements" width="100%"/>
+  <img src="https://metrics.lecoq.io/sd-rahulk?template=classic&base=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.timezone=Asia%2FKolkata&config.theme=github_dark" alt="Achievements" width="100%"/>
 </div>
 
 ---
@@ -194,7 +232,7 @@ const rahul = {
 
 ---
 
-## 🌱 Currently Learning
+## ── C U R R E N T L Y &nbsp;&nbsp; L E A R N I N G ──
 
 ```
 🧠 Deep Learning      → Neural Networks, CNNs, NVIDIA CUDA
@@ -224,7 +262,7 @@ const rahul = {
 
   <br/>
 
-  *"Build. Break. Learn. Repeat."* 🚀
+  *"Build. Break. Learn. Repeat."* 🔵
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer&animation=twinkling" width="100%"/>
