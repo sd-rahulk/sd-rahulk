@@ -1,10 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahul%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20CS%20Student%20%40%20VIT%20Chennai&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rahul%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20CS%20Student%20%40%20VIT%20Chennai&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Rahul+K+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;CTF+Winner+%7C+AI+Enthusiast;Building+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sd-rahulk&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/sd-rahulk?style=for-the-badge&color=BF91F3&labelColor=0D1117" alt="Followers"/>
+</div>
+
 <br/>
+
+---
+
+## 🐍 The Snake Eats My Commits
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sd-rahulk/sd-rahulk/output/github-contribution-grid-snake-dark.svg" alt="snake game" width="100%"/>
+</div>
+
+> ⚙️ Powered by `Platane/snk` — regenerates from live contribution graph via GitHub Actions (setup below).
 
 ---
 
@@ -23,6 +38,7 @@ const rahul = {
   stack: [
     "HTML", "CSS", "JavaScript",
     "Node.js", "Express", "React Native (Expo)",
+    "Python", "Flask",
     "SQL", "Supabase",
     "Raspberry Pi 4", "Arduino Uno"
   ],
@@ -45,32 +61,39 @@ const rahul = {
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-**Cloud & Databases**
+**Cloud, Data & Databases**
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 **Hardware & Tools**
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
 
@@ -112,8 +135,9 @@ const rahul = {
 
 <details>
 <summary>🏫 <strong>VIT Chennai — CS Student & Project Developer</strong> · 2025–Present · Chennai, India</summary>
+<br/>
 
-> `Node.js` `Express` `React Native` `Supabase` `SQL` `JavaScript` `OpenAI API`
+> `Node.js` `Express` `React Native` `Python` `Flask` `Supabase` `SQL` `JavaScript` `OpenAI API`
 
 - Built and deployed **3 full-stack projects** independently within the first year of college
 - Integrated real-time **NSE market data** with AI inference for a stock analytics dashboard
@@ -184,9 +208,17 @@ const rahul = {
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sd-rahulk&label=Profile%20Views&color=10&icon=0&pretty=true" alt="Profile Views"/>
 
-  <br/><br/>
+### 💬 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  <br/>
 
   **📬 Reach me at:** [rahulkamaraj10@gmail.com](mailto:rahulkamaraj10@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/rahul-kamaraj10) &nbsp;|&nbsp; [GitHub](https://github.com/sd-rahulk)
 
