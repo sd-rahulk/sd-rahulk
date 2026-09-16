@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=RAHUL%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Builder%20%7C%20CS%20Student%20%40%20VIT%20Chennai&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=RAHUL%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20CS%20Student%20%40%20VIT%20Chennai&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Rahul+K+%F0%9F%91%8B;Full-Stack+%26+AI%2FAutomation+Builder;CTF+Winner+%7C+Cybersecurity+Enthusiast;Building+Zorax+AI+%F0%9F%9A%80" alt="Typing SVG" />
